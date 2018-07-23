@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<form id='Editor' action='write.php' method='post' accept-charset='UTF-8'>
+    <h1>Text Editor</h1>
+    <br>
+    <input type='hidden' name='submitted' id='submitted' value='1'/>
+    <div>
+
+        <p><label for='textfield'>TITLE:</label></p>
+        <input type='text' name='title' id='title' maxlength="50" required>
+        <br>
+
+        <p><label for='textfield'>TEXT FIELD:</label></p>
+        <textarea rows="10" cols="30" type='text' name='textfield' id='textfield' maxlength="300" required></textarea>
+        <br>
+        <input type="submit" value="Boa">
+        <input class="form-control" type="submit"  value= "BOA2" required=""
+               placeholder="username" oninvalid="this.setCustomValidity('Please fill in this field')">
+        </input>
+    </div>
+</form>
+
+</body>
+</html>
+
