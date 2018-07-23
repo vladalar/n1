@@ -1,2 +1,1 @@
-# NOTES
-first app 
+Fisierele se afla in folderul NOTES.
