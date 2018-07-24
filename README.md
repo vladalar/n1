@@ -1,1 +1,1 @@
-Fisierele se afla in folderul NOTES.
+https://www.taniarascia.com/how-to-use-json-data-with-php-or-javascript/
