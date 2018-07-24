@@ -23,7 +23,7 @@ closedir($dh);
 
 <button class="button"><a href="editor.html">Add a new note</a></button>
 <button class="button"><a href="loadnote.php?x=add">Edit a note</a></button>
-<button class="button"><a href="viewnote.php">View a note</a></button>
+<button class="button"><a href="view-functions.php">View a note</a></button>
 <br>
 <br>
 <br>
